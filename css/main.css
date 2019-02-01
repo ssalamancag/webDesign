@@ -6,5 +6,14 @@
 .row-content{
 	margin:2%;
 	padding: 1%;
-	width: 110%;
+	width: 100%;
+}
+.card{
+	height: 40vh;
+	width: 35vw;
+	min-width: 500px;
+	min-height: 400px; 
+	max-height: 650px;
+	margin: 1em;
+
 }
